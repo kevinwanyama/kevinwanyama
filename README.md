@@ -1,31 +1,13 @@
-<!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
 
-<!--
-**ZamranxD/ZamranxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 title="hehehe"> Hey 👋, I'm Wanyama!</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 title="hehehe"> Hey 👋, I'm Zamran!</h3>
-
-<a href="https://www.linkedin.com/in/zamranxd/">
-  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/kevin-wanyama-83839817b)">
+  <img align="left" alt="kevin LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/zamranxd/">
-  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="##">
+  <img align="left" alt="kevin's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.facebook.com/ZamranxD">
-  <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
+<!--<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
 
 
 
@@ -39,13 +21,13 @@ A **Software Engineering Student** 🚀 from Lahore, Pakistan.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a TSA at Nixxe Solutions.
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
+- 👨🏽‍💻 I’m currently working as System Quality Assurance Engineer at Fintech-group.
+- 🌱 I’m currently exploring Python with a big data and Data Visualization. 
 - 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+- 💼 I’m pursuing a certification in Software Engineering at ALX.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
+- 📫 Email me at [kvnwanyama@gmail.com](mailto:kvnwanyama@gmail.com).
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1dcNzXwQWdiE4RoXpE9c9EVUj0CdbBj_O/view?usp=sharing) to get more info.
 
 
 **Languages and Tools:**  
@@ -62,12 +44,9 @@ A **Software Engineering Student** 🚀 from Lahore, Pakistan.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZamranxD&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Zamran's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=kevinwanyama&show_icons=true&hide_border=true&count_private=true&theme=rose_pine&icon_color=fad000" alt="kevin's GitHub Stats">
 
-⭐️ From [ZamranxD](https://github.com/ZamranxD)
+⭐️ From [kevin](https://github.com/kevinwanyama)
 
 
 ----
-Credit: [ZamranxD](https://github.com/ZamranxD)
-
-Last Edited on: 23/09/2020
