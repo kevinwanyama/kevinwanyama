@@ -27,7 +27,7 @@ A **Software Engineering Student** 🚀 from Lahore, Pakistan.
 - 💼 I’m pursuing a certification in Software Engineering at ALX.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [kvnwanyama@gmail.com](mailto:kvnwanyama@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1dcNzXwQWdiE4RoXpE9c9EVUj0CdbBj_O/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1uFs1RCdGQwTXDN2asOM4jnyIiLTBKaGI/view?usp=sharing) to get more info.
 
 
 **Languages and Tools:**  
